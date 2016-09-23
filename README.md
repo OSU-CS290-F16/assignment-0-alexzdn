@@ -5,7 +5,7 @@ Name: `Oleksii Zadniprianyi`
 
 ONID ID: `zadnipro`
 
-Link to my CS 290 page: `http://people.oregonstate.edu/~zadnipro/cs290/`
+Link to my CS 290 page: http://web.engr.oregonstate.edu/~zadnipro/cs290/
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
